@@ -38,3 +38,9 @@ País: méxico/
 
 *Integrantes*
 El trabajo fue realizado de manera individual por mí. Nombre de alumna: Burgos Daniela Carolina Fernanda.
+
+*enlace al video demostrativo*
+https://youtu.be/DcTu_b5lokg
+
+*documento en formato PDF* 
+Subido al repositorio con nombre "TPI Programacion I Daniela Burgos"
